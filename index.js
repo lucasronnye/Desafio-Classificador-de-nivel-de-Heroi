@@ -1,7 +1,7 @@
 // variavel com o nome e a quantidade de experiência(XP) do herói
 let nomeHeroi = "Capitão América";
 let xpHeroi = 4520;
-//Estrutura de decisão Switch Case
+//Estrutura de decisão if else if else
 if(xpHeroi < 1000){
   console.log("O Herói de nome " + nomeHeroi +" está no nível de Ferro");
 }
